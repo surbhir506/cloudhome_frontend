@@ -1,6 +1,6 @@
-# 📁 FolderX - File Management System
+# 📁 CloudHome
 
-FolderX is a robust file management system designed to streamline your digital workspace. Built with efficiency and security in mind, FolderX empowers users to effortlessly organize, upload, and manage files with ease. With intuitive features and a user-friendly interface, FolderX revolutionizes the way you handle your digital assets.
+CloudHome is a robust file management system designed to streamline your digital workspace. Built with efficiency and security in mind, CloudHome empowers users to effortlessly organize, upload, and manage files with ease. With intuitive features and a user-friendly interface, CloudHome revolutionizes the way you handle your digital assets.
 
 ## Features
 
